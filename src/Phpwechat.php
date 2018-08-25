@@ -9,7 +9,6 @@
 namespace Marin\Phpwechat;
 use Illuminate\Session\SessionManager;
 use Illuminate\Config\Repository;
-use DB;
 
 class Phpwechat
 {
@@ -122,7 +121,7 @@ class Phpwechat
                 'open_id' => $open_id,
                 'union_id' => $res->unionid
             ];
-            DB::table('openUnion')->insert($data);
+//            DB::table('openUnion')->insert($data);
         }
         return true;
     }
