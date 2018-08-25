@@ -1,0 +1,16 @@
+{
+    "name": "marin/phpwechat-for-laravel",
+    "authors": [
+        {
+            "name": "marin",
+            "email": "837083114@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Marin\\Phpwechat\\": "src/"
+        }
+    },
+}
