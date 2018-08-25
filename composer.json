@@ -12,5 +12,5 @@
             "App\\": "app/",
             "Marin\\Phpwechat\\": "src/"
         }
-    },
+    }
 }
