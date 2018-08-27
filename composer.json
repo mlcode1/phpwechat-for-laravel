@@ -8,6 +8,7 @@
     ],
     "description": "wechat for laravel",
     "license": "MIT",
+    "type": "project",
     "require": {
         "php": ">=5.6.4"
     },
