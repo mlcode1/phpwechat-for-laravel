@@ -6,6 +6,7 @@
             "email": "837083114@qq.com"
         }
     ],
+    "description": "wechat for laravel",
     "license": "MIT",
     "require": {
         "php": ">=5.6.4"
